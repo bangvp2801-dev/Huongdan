@@ -45,8 +45,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitin
   })
   
   
-  AddButton(Tab3o, {
-     Name = "dog hub",
+  AddButton(Tab1o, {
+     Name = "quantom",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/bangvp2801-dev/Dog-hub/refs/heads/main/Dog%20hub"))()
 end
