@@ -68,3 +68,10 @@ AddButton(Tab1o, {
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))(Settings)
   end
   })
+
+
+AddButton(Tab1o, {
+     Name = "blue x hub",
+    Callback = function()  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
+  end
+  })
