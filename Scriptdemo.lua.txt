@@ -78,7 +78,7 @@ AddButton(Tab1o, {
 
 
 AddButton(Tab3o, {
-     Name = "blue x hub",
+     Name = "xero hub",
     Callback = function()  loadstring(game:HttpGet("https://raw.githubusercontent.com/xero-hub-script/xero-hub/refs/heads/main/README.md"))()
   end
   })
