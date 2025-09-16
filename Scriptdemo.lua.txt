@@ -78,7 +78,7 @@ AddButton(Tab1o, {
 
 
 AddButton(Tab3o, {
-     Name = "xero hub",
-    Callback = function()  loadstring(game:HttpGet("https://raw.githubusercontent.com/xero-hub-script/xero-hub/refs/heads/main/README.md"))()
+     Name = "eren hub do tao tạo đang cập nhật thêm nhiều tính năng nhưng vẫn dùng được",
+    Callback = function()  loadstring(game:HttpGet("https://raw.githubusercontent.com/bangvp2801-dev/Eren-hub/refs/heads/main/erenhub.lua.txt"))()
   end
   })
